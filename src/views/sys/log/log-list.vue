@@ -28,7 +28,7 @@
     </el-form>
     <el-divider />
     <el-button type="danger" class="add-button" size="mini" @click="deleteByIds">批量删除</el-button>
-    <el-button type="primary" class="add-button" size="mini" @click="exportAll">全部导出</el-button>
+    <!--<el-button type="primary" class="add-button" size="mini" @click="exportAll">全部导出</el-button>-->
 
     <!-- 列表 -->
     <el-table

@@ -51,9 +51,9 @@
     />
 
     <!-- 添加弹窗 -->
-    <el-dialog title="添加" :visible.sync="addDialog">
+   <!-- <el-dialog title="添加" :visible.sync="addDialog">
       <blog-add @closeAddDialog="closeAddDialog" @getByPage="getByPage" />
-    </el-dialog>
+    </el-dialog>-->
   </div>
 </template>
 
